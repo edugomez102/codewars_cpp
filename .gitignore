@@ -1,0 +1,7 @@
+
+tests
+test
+main_draft
+*.o
+.cache
+compile_commands.json
